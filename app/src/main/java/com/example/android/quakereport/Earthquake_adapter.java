@@ -15,9 +15,7 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
 
-/**
- * Created by blueb on 3/31/2017.
- */
+
 
 public class Earthquake_adapter extends ArrayAdapter<Earthquake> {
 
