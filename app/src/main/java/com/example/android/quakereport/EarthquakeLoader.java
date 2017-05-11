@@ -6,9 +6,6 @@ import android.util.Log;
 
 import java.util.List;
 
-/**
- * Created by blueb on 4/4/2017.
- */
 
 public class EarthquakeLoader extends AsyncTaskLoader<List<Earthquake>> {
 
